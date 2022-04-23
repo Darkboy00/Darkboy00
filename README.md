@@ -1,12 +1,11 @@
 <h1 align="center">Hi 👋, I'm Mehmet Kaymakcı</h1>
 <h3 align="center">A passionate game developer from Turkey</h3>
-<img align= "right" alt= "Coding" width="400" src="https://steamuserimages-a.akamaihd.net/ugc/954101135156565426/21D9841F8E03ED30D91A7720388E1E8D3A464FC0/">
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=darkboy00&label=Profile%20views&color=0e75b6&style=flat" alt="darkboy00" /> </p>
 
 <p align="left"> <a href="https://twitter.com/" target="blank"><img src="https://img.shields.io/twitter/follow/?logo=twitter&style=for-the-badge" alt="" /></a> </p>
 
-- 🌱 I’m currently learning **Unity,Python**
+- 🌱 I’m currently learning **Unity-Python**
 
 - 👨‍💻 All of my projects are available at [http://mehmetkaymakci.unaux.com](http://mehmetkaymakci.unaux.com)
 
@@ -16,6 +15,7 @@
 <p align="left">
 <a href="https://linkedin.com/in/mehmet kaymakçı" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="mehmet kaymakçı" height="30" width="40" /></a>
 <a href="https://fb.com/mehmet kaymakçı" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="mehmet kaymakçı" height="30" width="40" /></a>
+<a href="https://www.youtube.com/c/https://www.youtube.com/channel/uc1u7w6nhypeyctaebkhacea/featured" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="https://www.youtube.com/channel/uc1u7w6nhypeyctaebkhacea/featured" height="30" width="40" /></a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
@@ -24,5 +24,3 @@
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=darkboy00&show_icons=true&locale=en&layout=compact" alt="darkboy00" /></p>
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=darkboy00&show_icons=true&locale=en" alt="darkboy00" /></p>
-
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=darkboy00&" alt="darkboy00" /></p>
