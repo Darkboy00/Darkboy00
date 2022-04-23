@@ -1,9 +1,10 @@
 <h1 align="center">Hi 👋, I'm Mehmet Kaymakcı</h1>
 <h3 align="center">A passionate game developer from Turkey</h3>
+<img align= "right" alt= "Coding" width="450" src="https://steamuserimages-a.akamaihd.net/ugc/954101135156565426/21D9841F8E03ED30D91A7720388E1E8D3A464FC0/">
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=darkboy00&label=Profile%20views&color=0e75b6&style=flat" alt="darkboy00" /> </p>
 
-<p align="left"> <a href="https://twitter.com/" target="blank"><img src="https://img.shields.io/twitter/follow/?logo=twitter&style=for-the-badge" alt="" /></a> </p>
+<p align="left"> <a href="https://twitter.com/mehmetk53984190" target="blank"><img src="https://img.shields.io/twitter/follow/mehmetk53984190?logo=twitter&style=for-the-badge" alt="mehmetk53984190" /></a> </p>
 
 - 🌱 I’m currently learning **Unity-Python**
 
@@ -13,9 +14,14 @@
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://linkedin.com/in/mehmet kaymakçı" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="mehmet kaymakçı" height="30" width="40" /></a>
-<a href="https://fb.com/mehmet kaymakçı" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="mehmet kaymakçı" height="30" width="40" /></a>
-<a href="https://www.youtube.com/c/https://www.youtube.com/channel/uc1u7w6nhypeyctaebkhacea/featured" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="https://www.youtube.com/channel/uc1u7w6nhypeyctaebkhacea/featured" height="30" width="40" /></a>
+<a href="https://dev.to/darkboy00" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/devto.svg" alt="darkboy00" height="30" width="40" /></a>
+<a href="https://twitter.com/mehmetk53984190" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="mehmetk53984190" height="30" width="40" /></a>
+<a href="https://linkedin.com/in/mehmet-kaymakçı-5732951b9/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="mehmet-kaymakçı-5732951b9/" height="30" width="40" /></a>
+<a href="https://stackoverflow.com/users/14473452" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/stack-overflow.svg" alt="14473452" height="30" width="40" /></a>
+<a href="https://fb.com/profile.php?id=100004468297963" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="profile.php?id=100004468297963" height="30" width="40" /></a>
+<a href="https://instagram.com/mehmetkaymak_0" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="mehmetkaymak_0" height="30" width="40" /></a>
+<a href="https://www.hackerrank.com/mehmetkaymakci21" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" alt="mehmetkaymakci21" height="30" width="40" /></a>
+<a href="https://www.leetcode.com/mehmetkaymakci2002" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="mehmetkaymakci2002" height="30" width="40" /></a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
@@ -24,3 +30,5 @@
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=darkboy00&show_icons=true&locale=en&layout=compact" alt="darkboy00" /></p>
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=darkboy00&show_icons=true&locale=en" alt="darkboy00" /></p>
+
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=darkboy00&" alt="darkboy00" /></p>
