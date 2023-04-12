@@ -8,7 +8,7 @@
 
 - 🌱 I’m currently learning **Unity-Python**
 
-- 👨‍💻 All of my projects are available at [http://mehmetkaymakci.unaux.com](http://mehmetkaymakci.unaux.com)
+- 👨‍💻 All of my projects are available at [http://mehmetkaymakci.com](http://mehmetkaymakci.com)
 
 - 📫 How to reach me **mehmetkaymakci2002@gmail.com**
 
